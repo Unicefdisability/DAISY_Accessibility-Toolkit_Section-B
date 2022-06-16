@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Universal design" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION B: PROGRAMME RELATED BUILDINGS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_840">
+				<text src="toolkit_b.html#d2e639" id="txt_840" />
+			</par>
+			<par endsync="last" id="par_841">
+				<text src="toolkit_b.html#id_326" id="txt_841" />
+			</par>
+			<par endsync="last" id="par_842">
+				<text src="toolkit_b.html#noteref_2" id="txt_842" />
+			</par>
+			<par endsync="last" id="par_843">
+				<text src="toolkit_b.html#id_327" id="txt_843" />
+			</par>
+			<par endsync="last" id="par_844">
+				<text src="toolkit_b.html#noteref_3" id="txt_844" />
+			</par>
+			<par endsync="last" id="par_845">
+				<text src="toolkit_b.html#p12" id="txt_845" />
+			</par>
+			<par endsync="last" id="par_846">
+				<text src="toolkit_b.html#id_328" id="txt_846" />
+			</par>
+			<par endsync="last" id="par_847">
+				<text src="toolkit_b.html#id_330" id="txt_847" />
+			</par>
+			<par endsync="last" id="par_848">
+				<text src="toolkit_b.html#id_332" id="txt_848" />
+			</par>
+			<par endsync="last" id="par_849">
+				<text src="toolkit_b.html#id_334" id="txt_849" />
+			</par>
+			<par endsync="last" id="par_850">
+				<text src="toolkit_b.html#id_336" id="txt_850" />
+			</par>
+			<par endsync="last" id="par_851">
+				<text src="toolkit_b.html#id_338" id="txt_851" />
+			</par>
+			<par endsync="last" id="par_852">
+				<text src="toolkit_b.html#id_340" id="txt_852" />
+			</par>
+			<par endsync="last" id="par_853">
+				<text src="toolkit_b.html#id_342" id="txt_853" />
+			</par>
+			<par endsync="last" id="par_854">
+				<text src="toolkit_b.html#id_344" id="txt_854" />
+			</par>
+			<par endsync="last" id="par_855">
+				<text src="toolkit_b.html#id_345" id="txt_855" />
+			</par>
+			<par endsync="last" id="par_856">
+				<text src="toolkit_b.html#p13" id="txt_856" />
+			</par>
+			<par endsync="last" id="par_857">
+				<text src="toolkit_b.html#id_347" id="txt_857" />
+			</par>
+		</seq>
+	</body>
+</smil>

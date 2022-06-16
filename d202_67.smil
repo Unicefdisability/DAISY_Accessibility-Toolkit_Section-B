@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Preliminary planning and budgeting" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION B: PROGRAMME RELATED BUILDINGS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_1532">
+				<text src="toolkit_b.html#d2e2485" id="txt_1532" />
+			</par>
+			<par endsync="last" id="par_1533">
+				<text src="toolkit_b.html#id_1208" id="txt_1533" />
+			</par>
+			<par endsync="last" id="par_1534">
+				<text src="toolkit_b.html#id_1209" id="txt_1534" />
+			</par>
+			<par endsync="last" id="par_1535">
+				<text src="toolkit_b.html#id_1211" id="txt_1535" />
+			</par>
+			<par endsync="last" id="par_1536">
+				<text src="toolkit_b.html#id_1213" id="txt_1536" />
+			</par>
+			<par endsync="last" id="par_1537">
+				<text src="toolkit_b.html#id_1215" id="txt_1537" />
+			</par>
+			<par endsync="last" id="par_1538">
+				<text src="toolkit_b.html#id_1217" id="txt_1538" />
+			</par>
+			<par endsync="last" id="par_1539">
+				<text src="toolkit_b.html#id_1218" id="txt_1539" />
+			</par>
+			<par endsync="last" id="par_1540">
+				<text src="toolkit_b.html#id_1220" id="txt_1540" />
+			</par>
+			<par endsync="last" id="par_1541">
+				<text src="toolkit_b.html#noteref_45" id="txt_1541" />
+			</par>
+			<par endsync="last" id="par_1542">
+				<text src="toolkit_b.html#id_1223" id="txt_1542" />
+			</par>
+			<par endsync="last" id="par_1543">
+				<text src="toolkit_b.html#id_1224" id="txt_1543" />
+			</par>
+			<par endsync="last" id="par_1544">
+				<text src="toolkit_b.html#p63" id="txt_1544" />
+			</par>
+		</seq>
+	</body>
+</smil>

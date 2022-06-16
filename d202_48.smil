@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Humanitarian action" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION B: PROGRAMME RELATED BUILDINGS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_1147">
+				<text src="toolkit_b.html#d2e1459" id="txt_1147" />
+			</par>
+			<par endsync="last" id="par_1148">
+				<text src="toolkit_b.html#id_708" id="txt_1148" />
+			</par>
+			<par endsync="last" id="par_1149">
+				<text src="toolkit_b.html#id_709" id="txt_1149" />
+			</par>
+			<par endsync="last" id="par_1150">
+				<text src="toolkit_b.html#id_710" id="txt_1150" />
+			</par>
+			<par endsync="last" id="par_1151">
+				<text src="toolkit_b.html#id_712" id="txt_1151" />
+			</par>
+			<par endsync="last" id="par_1152">
+				<text src="toolkit_b.html#noteref_23" id="txt_1152" />
+			</par>
+			<par endsync="last" id="par_1153">
+				<text src="toolkit_b.html#id_713" id="txt_1153" />
+			</par>
+			<par endsync="last" id="par_1154">
+				<text src="toolkit_b.html#noteref_24" id="txt_1154" />
+			</par>
+			<par endsync="last" id="par_1155">
+				<text src="toolkit_b.html#id_716" id="txt_1155" />
+			</par>
+			<par endsync="last" id="par_1156">
+				<text src="toolkit_b.html#id_717" id="txt_1156" />
+			</par>
+			<par endsync="last" id="par_1157">
+				<text src="toolkit_b.html#p35" id="txt_1157" />
+			</par>
+			<par endsync="last" id="par_1158">
+				<text src="toolkit_b.html#id_718" id="txt_1158" />
+			</par>
+			<par endsync="last" id="par_1159">
+				<text src="toolkit_b.html#id_720" id="txt_1159" />
+			</par>
+			<par endsync="last" id="par_1160">
+				<text src="toolkit_b.html#id_721" id="txt_1160" />
+			</par>
+			<par endsync="last" id="par_1161">
+				<text src="toolkit_b.html#id_722" id="txt_1161" />
+			</par>
+			<par endsync="last" id="par_1162">
+				<text src="toolkit_b.html#id_723" id="txt_1162" />
+			</par>
+			<par endsync="last" id="par_1163">
+				<text src="toolkit_b.html#id_724" id="txt_1163" />
+			</par>
+			<par endsync="last" id="par_1164">
+				<text src="toolkit_b.html#id_725" id="txt_1164" />
+			</par>
+			<par endsync="last" id="par_1165">
+				<text src="toolkit_b.html#id_727" id="txt_1165" />
+			</par>
+			<par endsync="last" id="par_1166">
+				<text src="toolkit_b.html#id_728" id="txt_1166" />
+			</par>
+			<par endsync="last" id="par_1167">
+				<text src="toolkit_b.html#id_729" id="txt_1167" />
+			</par>
+			<par endsync="last" id="par_1168">
+				<text src="toolkit_b.html#id_730" id="txt_1168" />
+			</par>
+			<par endsync="last" id="par_1169">
+				<text src="toolkit_b.html#id_731" id="txt_1169" />
+			</par>
+			<par endsync="last" id="par_1170">
+				<text src="toolkit_b.html#id_733" id="txt_1170" />
+			</par>
+			<par endsync="last" id="par_1171">
+				<text src="toolkit_b.html#noteref_25" id="txt_1171" />
+			</par>
+			<par endsync="last" id="par_1172">
+				<text src="toolkit_b.html#id_736" id="txt_1172" />
+			</par>
+			<par endsync="last" id="par_1173">
+				<text src="toolkit_b.html#noteref_26" id="txt_1173" />
+			</par>
+			<par endsync="last" id="par_1174">
+				<text src="toolkit_b.html#p36" id="txt_1174" />
+			</par>
+		</seq>
+	</body>
+</smil>

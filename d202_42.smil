@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Health care facilities and clinics" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION B: PROGRAMME RELATED BUILDINGS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_1118">
+				<text src="toolkit_b.html#d2e1383" id="txt_1118" />
+			</par>
+			<par endsync="last" id="par_1119">
+				<text src="toolkit_b.html#id_673" id="txt_1119" />
+			</par>
+			<par endsync="last" id="par_1120">
+				<text src="toolkit_b.html#id_674" id="txt_1120" />
+			</par>
+			<par endsync="last" id="par_1121">
+				<text src="toolkit_b.html#id_675" id="txt_1121" />
+			</par>
+			<par endsync="last" id="par_1122">
+				<text src="toolkit_b.html#id_676" id="txt_1122" />
+			</par>
+			<par endsync="last" id="par_1123">
+				<text src="toolkit_b.html#id_677" id="txt_1123" />
+			</par>
+			<par endsync="last" id="par_1124">
+				<text src="toolkit_b.html#id_678" id="txt_1124" />
+			</par>
+		</seq>
+	</body>
+</smil>
